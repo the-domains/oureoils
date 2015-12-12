@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A090C8'
+    - '#906010'
+    - '#685898'
+    - '#B89840'
+    - '#000000'
+  brandStrength: 0.97072
+  lightness: 0.958936
+  rhythmicContrast: 0.327702
+  saturation: 0.319819
+cta: {}
+layout_spectrum: 0.618071
+name: OurEoils
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.965668
